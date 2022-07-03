@@ -1,0 +1,11 @@
+
+imutils
+opencv-python
+playsound
+cmake
+dlib
+google-api-python-client
+google-cloud
+google-cloud-vision
+imageio-ffmpeg
+scipy

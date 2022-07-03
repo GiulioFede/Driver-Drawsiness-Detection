@@ -1,0 +1,2 @@
+,face_detection_time,landmark_prediction_time,ear_evaluation_time,percl_estimation_time,fps
+1,0.018999814987182617,0.002968311309814453,0.0,0.0,7570.467133194144
